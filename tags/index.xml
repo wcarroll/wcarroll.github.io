@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Cool Site Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 21:26:12 -0400</lastBuildDate>
     
 	<atom:link href="https://wcarroll.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://wcarroll.github.io/tags/blogging/</link>
+      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
+      
+      <guid>https://wcarroll.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -17,6 +26,15 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://wcarroll.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://wcarroll.github.io/tags/github/</link>
+      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
+      
+      <guid>https://wcarroll.github.io/tags/github/</guid>
       <description></description>
     </item>
     
@@ -41,7 +59,7 @@
     <item>
       <title>Hugo</title>
       <link>https://wcarroll.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
       
       <guid>https://wcarroll.github.io/tags/hugo/</guid>
       <description></description>

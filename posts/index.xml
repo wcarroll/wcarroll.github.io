@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Starting to Blog</title>
+      <link>https://wcarroll.github.io/posts/starting-to-blog/</link>
+      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
+      
+      <guid>https://wcarroll.github.io/posts/starting-to-blog/</guid>
+      <description>This is my first post with Hugo and Github Pages. I&amp;rsquo;m not sure if the fault is mine or if the fault is with the tutorials, but I found multiple different ways to accomplish the goal of starting a static Blog not using Wordpress, Ghost, Blogger, etc. Github Pages coupled with Hugo seemed to be the thing I was looking for. Never mind that I would need to learn Markdown Language.</description>
+    </item>
+    
+    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://wcarroll.github.io/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>

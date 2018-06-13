@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://wcarroll.github.io/posts/starting-to-blog/</loc>
+    <lastmod>2018-06-12T21:26:12-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wcarroll.github.io/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
@@ -25,6 +30,12 @@
   <url>
     <loc>https://wcarroll.github.io/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wcarroll.github.io/tags/blogging/</loc>
+    <lastmod>2018-06-12T21:26:12-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -51,6 +62,12 @@
   </url>
   
   <url>
+    <loc>https://wcarroll.github.io/tags/github/</loc>
+    <lastmod>2018-06-12T21:26:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wcarroll.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -70,7 +87,7 @@
   
   <url>
     <loc>https://wcarroll.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T21:26:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +99,7 @@
   
   <url>
     <loc>https://wcarroll.github.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T21:26:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
