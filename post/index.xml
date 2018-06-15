@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interrupt Request</title>
-    <link>https://interruptrequest.io/</link>
-    <description>Recent content on Interrupt Request</description>
+    <title>Posts on Interrupt Request</title>
+    <link>https://interruptrequest.io/post/</link>
+    <description>Recent content in Posts on Interrupt Request</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
     <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
     <lastBuildDate>Fri, 15 Jun 2018 11:32:41 -0400</lastBuildDate>
     
-	<atom:link href="https://interruptrequest.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://interruptrequest.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <description>&lt;p&gt;For a while now, I have been looking to start a site \ blog to share with the world my technological learnings and insights. One of the hardest things I had to figure out was what to call the site. I wanted something that would be easy to remember, unique, and most imporantly not already taken. Considering all these requirements, I spend over a year attempting to figure it out!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://interruptrequest.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
-      <guid>https://interruptrequest.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family The Dread Pirate Roberts is my close, personal friend  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>

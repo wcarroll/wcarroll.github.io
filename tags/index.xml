@@ -1,85 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cool Site Title</title>
-    <link>https://wcarroll.github.io/tags/</link>
-    <description>Recent content in Tags on Cool Site Title</description>
+    <title>Tags on Interrupt Request</title>
+    <link>https://interruptrequest.io/tags/</link>
+    <description>Recent content in Tags on Interrupt Request</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 Jun 2018 21:26:12 -0400</lastBuildDate>
+    <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
+    <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
+    <lastBuildDate>Fri, 15 Jun 2018 11:32:41 -0400</lastBuildDate>
     
-	<atom:link href="https://wcarroll.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://interruptrequest.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blogging</title>
-      <link>https://wcarroll.github.io/tags/blogging/</link>
-      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/blogging/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Development</title>
-      <link>https://wcarroll.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://wcarroll.github.io/tags/github/</link>
-      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://wcarroll.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://wcarroll.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://wcarroll.github.io/tags/hugo/</link>
-      <pubDate>Tue, 12 Jun 2018 21:26:12 -0400</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://wcarroll.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://wcarroll.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wcarroll.github.io/tags/themes/</guid>
+      <title>2018</title>
+      <link>https://interruptrequest.io/tags/2018/</link>
+      <pubDate>Fri, 15 Jun 2018 11:32:41 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/tags/2018/</guid>
       <description></description>
     </item>
     
