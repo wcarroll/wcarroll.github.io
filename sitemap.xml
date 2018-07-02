@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://interruptrequest.io/post/2018-07-02-selecting-my-blogging-platform/</loc>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://interruptrequest.io/page/about/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -14,23 +19,35 @@
   
   <url>
     <loc>https://interruptrequest.io/</loc>
-    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/tags/2018/</loc>
-    <lastmod>2018-06-26T08:32:00-04:00</lastmod>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/tags/blog/</loc>
-    <lastmod>2018-06-26T08:32:00-04:00</lastmod>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://interruptrequest.io/tags/github/</loc>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://interruptrequest.io/tags/hugo/</loc>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,13 +59,13 @@
   
   <url>
     <loc>https://interruptrequest.io/post/</loc>
-    <lastmod>2018-06-26T08:32:00-04:00</lastmod>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/tags/</loc>
-    <lastmod>2018-06-26T08:32:00-04:00</lastmod>
+    <lastmod>2018-07-02T13:27:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   

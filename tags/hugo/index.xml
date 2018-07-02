@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Interrupt Request</title>
-    <link>https://interruptrequest.io/tags/blog/</link>
-    <description>Recent content in Blog on Interrupt Request</description>
+    <title>Hugo on Interrupt Request</title>
+    <link>https://interruptrequest.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Interrupt Request</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
     <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
     <lastBuildDate>Mon, 02 Jul 2018 13:27:50 -0400</lastBuildDate>
     
-	<atom:link href="https://interruptrequest.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://interruptrequest.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,20 +21,6 @@
       <description>&lt;p&gt;Now that I have selected my name, I had to select a platform to publish on.
 I looked at several options including &lt;a href=&#34;https://wordpress.com/&#34;&gt;WordPress&lt;/a&gt;, &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;https://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;, and a few others.
 WordPress was the front runner for a while, but what I really wanted was a simplistic method to host static pages, version control, create and edit content anywhere, support for a custom domain name, and as free as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Starting My New Blog</title>
-      <link>https://interruptrequest.io/post/2018-06-15-starting-my-new-blog/</link>
-      <pubDate>Fri, 15 Jun 2018 11:32:41 -0400</pubDate>
-      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
-      <guid>https://interruptrequest.io/post/2018-06-15-starting-my-new-blog/</guid>
-      <description>&lt;p&gt;For a while now, I have been looking to start a site \ blog to share with the world my technological learnings and insights.
-One of the hardest things I had to figure out was what to call the site.
-I wanted something that would be easy to remember, unique, and most importantly not already taken.
-Considering all these requirements, I spent over a year attempting to figure it out!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
