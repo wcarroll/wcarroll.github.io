@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
     <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://interruptrequest.io/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +15,10 @@
     <item>
       <title>About me</title>
       <link>https://interruptrequest.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       <author>interruptrequestio@gmail.com (Wes Carroll)</author>
       <guid>https://interruptrequest.io/page/about/</guid>
-      <description>Hello, Visitor! My Name is Wes Carroll and I have been dabbling with computers in one form or another since the late 1980&amp;rsquo;s when my father brought home our first &amp;ldquo;IBM PC-Compatiable clone.&amp;rdquo; I thought that it was the most amazing thing in the world and I was hooked from day one. I remember he setup a program that would run when I hit g then enter and a whole list of games would appear on the screen.</description>
+      <description>Hello, Visitor! My Name is Wes Carroll and I have been dabbling with computers in one form or another since the late 1980&amp;rsquo;s when my father brought home our first &amp;ldquo;IBM PC-Compatible clone.&amp;rdquo; I thought that it was the most amazing thing in the world and I was hooked from day one. I remember he setup a program that would run when I hit g then enter and a whole list of games would appear on the screen.</description>
     </item>
     
   </channel>
