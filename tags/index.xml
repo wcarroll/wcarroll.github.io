@@ -21,5 +21,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Blog</title>
+      <link>https://interruptrequest.io/tags/blog/</link>
+      <pubDate>Fri, 15 Jun 2018 11:32:41 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
