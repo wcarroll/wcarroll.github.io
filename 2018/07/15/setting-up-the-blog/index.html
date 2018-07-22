@@ -5,12 +5,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>About me</title>
-  <meta property="og:title" content="About me" />
-  <meta name="twitter:title" content="About me" />
-  <meta name="description" content="Who is this guy, anyways?">
-  <meta property="og:description" content="Who is this guy, anyways?">
-  <meta name="twitter:description" content="Who is this guy, anyways?">
+  <title>Setting Up the Blog</title>
+  <meta property="og:title" content="Setting Up the Blog" />
+  <meta name="twitter:title" content="Setting Up the Blog" />
+  <meta name="description" content="Now that the selection process is complete, I need to put it all together and get it all setup.
+This process will include setting up my Hugo environment, configuration of GitHub Pages, and configuration of a custom URL.
+Upon completion of these steps, I will be ready to start publishing.
+
+">
+  <meta property="og:description" content="Now that the selection process is complete, I need to put it all together and get it all setup.
+This process will include setting up my Hugo environment, configuration of GitHub Pages, and configuration of a custom URL.
+Upon completion of these steps, I will be ready to start publishing.
+
+">
+  <meta name="twitter:description" content="Now that the selection process is complete, I need to put it all together and get it all setup.
+This process will include setting up my Hugo environment, configuration of GitHub Pages, and …">
   <meta name="author" content="Wes Carroll"/>
   <link href='https://interruptrequest.io/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://interruptrequest.io/img/avatar-icon.png" />
@@ -18,12 +27,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@WesCarrollTech" />
   <meta name="twitter:creator" content="@WesCarrollTech" />
-  <meta property="og:url" content="https://interruptrequest.io/page/about/" />
+  <meta property="og:url" content="https://interruptrequest.io/2018/07/15/setting-up-the-blog" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Interrupt Request" />
 
   <meta name="generator" content="Hugo 0.45" />
-  <link rel="canonical" href="https://interruptrequest.io/page/about/" />
+  <link rel="canonical" href="https://interruptrequest.io/2018/07/15/setting-up-the-blog" />
   <link rel="alternate" href="https://interruptrequest.io/index.xml" type="application/rss+xml" title="Interrupt Request">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -194,14 +203,22 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>About me</h1>
+            <div class="post-heading">
+              <h1>Setting Up the Blog</h1>
                 
-                  
-                    <hr class="small">
-                    <span class="page-subheading">Who is this guy, anyways?</span>
-                  
                 
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on July 15, 2018
+  
+    &nbsp;(Last modified on July 20, 2018)
+  
+  
+  
+</span>
+
+
                 
             </div>
           </div>
@@ -216,54 +233,85 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
+        <p>Now that the selection process is complete, I need to put it all together and get it all setup.
+This process will include setting up my <a href="https://gohugo.io">Hugo</a> environment, configuration of GitHub Pages, and configuration of a custom URL.
+Upon completion of these steps, I will be ready to start publishing.</p>
+
+<p></p>
+
+<h2 id="setting-up-hugo">Setting Up Hugo</h2>
+
+<p>Setting up the Hugo platform is amazingly easy to setup regardless of which OS you happen to run.
+The Hugo website contains amazing documentation including a <a href="https://gohugo.io/getting-started/quick-start/">Hugo Quick Start Guide</a>.
+This guide walks you through the process of installation, creation of a new site, adding a theme, creating your first post, and some site configuration.
+While the quick start guide only discusses MacOS as an installation target, Hugo does support Windows and Linux as well.
+I departed from the quick start recipe only slightly by forking the theme and using my own repository as a sub-module.
+Outside of that minor change, the quick start got me up and running in less than 10 minutes.</p>
+
+<p>It turns out that selecting a theme in Hugo is very dependant on features you are looking to implement for your site.
+Unless you want to build your own theme from scratch, you will need to select from a catalog of <a href="https://themes.gohugo.io/">Hugo Themes</a>.
+This may have been the longest part of setting up the site.
+While Hugo makes it easy to swap themes, each theme needs to be explored to fully understand the features.
+I ended up selecting <a href="https://themes.gohugo.io/beautifulhugo/">Beautiful Hugo</a> as my theme.
+This theme allows be to have a clean reactive site that is suitable for both mobile and desktop browsers.
+It also allows for extremely easy configuration of social sharing options, search capabilities (<a href="https://cse.google.com/cse/">Google Custom Search Engine</a>), <a href="https://disqus.com/">Disqus</a> integration, tagging, and contact options.
+This theme ticked all my boxes and I think it looks good to boot!</p>
+
+<h2 id="configuring-github-pages">Configuring GitHub Pages</h2>
+
+<p>GitHub makes it very easy to setup either a project-based repository for your static site, or a site based off of your GitHub username.
+I went with the username option and setup the <a href="https://github.com/wcarroll/wcarroll.github.io">wcarroll.github.io</a> repository.
+Just by setting up this repository, GitHub knows to monitor this repository for static HTML content and attempt to host it on the <a href="https://pages.github.com/">GitHub Pages</a> platform.
+As GitHub expects certain items to be in the root and with the method that Hugo compiles the site, it is important to setup a separate repository for the raw source and the named repository just for your compiled site.</p>
+
+<p>It was important for me to utilize a custom URL and to do so you need to own a domain and have access to edit DNS records.
+In my case, my registrar is <a href="https://domains.google">Google Domains</a>.
+GitHub&rsquo;s preferred method is to setup ALIAS or ANAME records.
+Google Domains does not currently support the GitHub Pages recommended ALIAS or ANAME records, so I had to follow the instructions to setup A records for <a href="https://help.github.com/articles/setting-up-an-apex-domain/">apex domains</a>.
+Lastly, I also wanted to ensure that any requests directed to a <code>www</code> sub-domain would be redirected to the apex domain.
+This was as simple as configuration of a CNAME record.
+To enable HTTPS, GitHub again makes the process super simple.
+Navigate to the repository and select the &ldquo;Settings&rdquo; tab.
+About two-thirds of the way down you will find the &ldquo;GitHub Pages&rdquo; section.
+This section is where you will enable HTTPS as well as tell GitHub pages to use a custom URL.
+Enforcing HTTPS is as easy as checking a box that says, &ldquo;Enforce HTTPS&rdquo; and setting the custom domain just requires that you enter the custom domain in the &ldquo;Custom domain&rdquo; box and click &ldquo;Save&rdquo;.
+Once these steps are complete, your GitHub Pages configuration should look like the image below.</p>
+
+<p><img src="/img/GitHubPagesFinal.png" alt="GitHub Pages Repository Configuration" /></p>
+
+<h2 id="publishing-the-site">Publishing the Site</h2>
+
+<p>Now that I have Hugo installed, my theme selected and configured, and GitHub Pages setup it is now time to publish content!
+To create the publishable site with Hugo, all you need to do is run the command <code>Hugo</code> at the root of your site folder.
+Running this command will create a new folder in the root of your site called &ldquo;Public.&rdquo;
+This will contain all the HTML and supporting files needed for GitHub Pages to render a site.
+It should be noted that this directory should be added to your &ldquo;GitIgnore&rdquo; file to ensure that you are not uploading it to your source repository.
+Once the site has been generated navigate to the public folder and configure it for your GitHub Pages repository.
+Follow normal Git protocol to init the folder and set the upstream location to the GetHub Pages repository, add the content to the git staging, commit, and push.
+That is it.
+Within a few seconds to a minute your site will be published.</p>
+
+<h2 id="final-thoughts">Final Thoughts</h2>
+
+<p>The learning curve here was fairly shallow and both Hugo and GitHub Pages make setting up a blog as simple as can be and completely free.
+I thought that I would struggle with composing in <a href="https://en.wikipedia.org/wiki/Markdown">MarkDown</a> but I have found it very simple and easy.
+Next steps are to continue to publish content and I need to replace the default logo.
+I am currently looking at different options to find a graphic designer to get me something new.
+Thus far I have considered Fivrr and LogoJoy.
+Leaning towards Fivrr, but if you have any suggestion, please let me know in the comments below.</p>
+
         
-
-<p>Hello, Visitor!
-My Name is Wes Carroll and I have been dabbling with computers in one form or another since the late 1980&rsquo;s when my father brought home our first &ldquo;<a href="https://en.wikipedia.org/wiki/Clone_(computing)#Hardware_clones">IBM PC-Compatible clone</a>.&rdquo;
-I thought that it was the most amazing thing in the world and I was hooked from day one.
-I remember he setup a program that would run when I hit <code>g</code> then <code>enter</code> and a whole list of games would appear on the screen.
-All I had to do was select the number of the game I wanted to play and in a few seconds I was in the world of <a href="https://en.wikipedia.org/wiki/King%27s_Quest_I"><em>Kings Quest</em></a>!</p>
-
-<p>Over the years, I started to become more curious about what else could I do with a computer.
-Typing in a letter or two was good and all, but what else could this machine do?
-Going through the alphabet letter by letter and hitting <code>enter</code> after each one seemed like a good idea at the time.
-This process quickly taught me how to find inputs that were not <code>recognized as an internal or external command, operable program or batch file.</code>
-Soon I was trying to remember key combinations I had seen my father use and eventually I discovered the <code>dir</code> and <code>cd</code> commands.
-This discovery led navigating the filesystem and attempting to execute every program I could find.
-Everything was going so well, right until I discovered the <code>del</code> command.</p>
-
-<p>Soon after discovering <code>del</code> I was introduced to the world of backup and recovery.
-I remember my father taking it all in stride as I told him that I had issued a command to delete everything in the directory that happened to contain the <code>del</code> command by typing in <code>del *.*</code>.
-He calmly left the computer room and brought back a box that contained several <a href="https://en.wikipedia.org/wiki/Floppy_disk#8-inch_and_5%C2%BC-inch_disks">5.25 inch floppy disks</a>. Over the next several hours, we were able to get the computer back to a running state.</p>
-
-<p>My first summer job was working as a Junior Computer Technician for a company with about 50 employees assisting with all things computer including my first server!
-I continued to hone my skills and learn everything I could eventually obtaining several certifications and getting my first full time job as a Junior Systems Administrator.
-Since then, I have had several jobs in technology being responsible for just about anything technology related including servers, storage, networking, directory services, e-mail, etc.</p>
-
-<p>In early 2015, I left the Systems Architecture \ Engineering \ Administrator role and took a job as a Pre-Sales Engineer for a VAR and entered the world of consultation and design.
-While I enjoyed my time as a Systems Engineer and getting my hands dirty, moving into a consultative role is where I found my passion.
-Having the opportunity to understand individual needs and help others solve complex problems makes each day a new and exciting prospect.</p>
-
-<p>Today, I work for <a href="https://www.zerto.com">Zerto</a> as a Pre-Sales Engineer helping companies understand IT resiliency concepts and where Zerto can help with these goals and objectives.
-As my daily job does focus around IT resiliency, most of the blog will focus around the Zerto Virtual Replication platform and encompassing technologies.
-I look forward to sharing my knowledge and insights with my audience.
-If there is something specific you have a question about or would like to see me cover, please do not hesitate to reach out.</p>
-
-<h1 id="disclaimer">Disclaimer</h1>
-
-<p>This is a personal blog.
-The views and opinions expressed on this blog are solely mine.
-Content published here has not provided to or approved by my employer or any of its divisions, subsidiaries, or business partners.</p>
-
-<h2 id="use-at-your-own-risk">Use at your own risk</h2>
-
-<p>This blog is for informational purposes only.
-All scripts, examples, and &ldquo;How Tos&rdquo; are provided AS IS without warranty of any kind.
-I further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose.
-The entire risk arising out of the use or performance of the sample scripts and documentation remains with you.
-In no event shall anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if the author has been advised of the possibility of such damages.</p>
-
-
+          <div class="blog-tags">
+            
+              <a href="https://interruptrequest.io/tags/github-pages/">GitHub Pages</a>&nbsp;
+            
+              <a href="https://interruptrequest.io/tags/hugo/">Hugo</a>&nbsp;
+            
+              <a href="https://interruptrequest.io/tags/blog/">Blog</a>&nbsp;
+            
+              <a href="https://interruptrequest.io/tags/2018/">2018</a>&nbsp;
+            
+          </div>
         
 
         
@@ -274,7 +322,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//twitter.com/share?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f&amp;text=About%20me&amp;via=WesCarrollTech"
+    <a href="//twitter.com/share?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f&amp;text=Setting%20Up%20the%20Blog&amp;via=WesCarrollTech"
        target="_blank" alt="" title="Share on Twitter">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -285,7 +333,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//plus.google.com/share?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f" target="_blank" title="Share on Google Plus">
+    <a href="//plus.google.com/share?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f" target="_blank" title="Share on Google Plus">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
@@ -295,7 +343,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f" target="_blank" title="Share on Facebook">
+    <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f" target="_blank" title="Share on Facebook">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -305,7 +353,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//reddit.com/submit?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f&amp;title=About%20me" target="_blank" title="Share on Reddit">
+    <a href="//reddit.com/submit?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f&amp;title=Setting%20Up%20the%20Blog" target="_blank" title="Share on Reddit">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
@@ -315,7 +363,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f&amp;title=About%20me" target="_blank"
+    <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f&amp;title=Setting%20Up%20the%20Blog" target="_blank"
        title="Share on LinkedIn">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -326,7 +374,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f&amp;title=About%20me" target="_blank"
+    <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f&amp;title=Setting%20Up%20the%20Blog" target="_blank"
        title="Share on StumbleUpon">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -337,7 +385,7 @@ In no event shall anyone else involved in the creation, production, or delivery 
 
 
 <li>
-    <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2finterruptrequest.io%2fpage%2fabout%2f&amp;description=About%20me" target="_blank"
+    <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2finterruptrequest.io%2f2018%2f07%2f15%2fsetting-up-the-blog%2f&amp;description=Setting%20Up%20the%20Blog" target="_blank"
        title="Share on Pinterest">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -352,8 +400,43 @@ In no event shall anyone else involved in the creation, production, or delivery 
       </article>
 
       
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://interruptrequest.io/2018/07/02/selecting-my-blogging-platform/" data-toggle="tooltip" data-placement="top" title="Selecting My Blogging Platform">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
 
 
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "interruptrequest-io" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+        
       
 
     </div>
