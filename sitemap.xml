@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://interruptrequest.io/2018/07/26/setting-up-my-mini-home-lab-part-1/</loc>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://interruptrequest.io/2018/07/15/setting-up-the-blog/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -24,12 +29,12 @@
   
   <url>
     <loc>https://interruptrequest.io/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/tags/2018/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,6 +56,12 @@
   </url>
   
   <url>
+    <loc>https://interruptrequest.io/tags/home-lab/</loc>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://interruptrequest.io/tags/hugo/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -64,13 +75,25 @@
   
   <url>
     <loc>https://interruptrequest.io/post/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://interruptrequest.io/tags/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://interruptrequest.io/tags/vmware/</loc>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://interruptrequest.io/tags/vsphere67/</loc>
+    <lastmod>2018-07-26T20:40:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   

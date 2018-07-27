@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
     <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 20:40:36 -0400</lastBuildDate>
     
 	<atom:link href="https://interruptrequest.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2018</title>
       <link>https://interruptrequest.io/tags/2018/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Jul 2018 20:40:36 -0400</pubDate>
       <author>interruptrequestio@gmail.com (Wes Carroll)</author>
       <guid>https://interruptrequest.io/tags/2018/</guid>
       <description></description>
@@ -40,11 +40,38 @@
     </item>
     
     <item>
+      <title>Home Lab</title>
+      <link>https://interruptrequest.io/tags/home-lab/</link>
+      <pubDate>Thu, 26 Jul 2018 20:40:36 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/tags/home-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>https://interruptrequest.io/tags/hugo/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       <author>interruptrequestio@gmail.com (Wes Carroll)</author>
       <guid>https://interruptrequest.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vmware</title>
+      <link>https://interruptrequest.io/tags/vmware/</link>
+      <pubDate>Thu, 26 Jul 2018 20:40:36 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsphere67</title>
+      <link>https://interruptrequest.io/tags/vsphere67/</link>
+      <pubDate>Thu, 26 Jul 2018 20:40:36 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/tags/vsphere67/</guid>
       <description></description>
     </item>
     

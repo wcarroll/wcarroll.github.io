@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vsphere67 on Interrupt Request</title>
+    <link>https://interruptrequest.io/tags/vsphere67/</link>
+    <description>Recent content in Vsphere67 on Interrupt Request</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
+    <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
+    <lastBuildDate>Thu, 26 Jul 2018 20:40:36 -0400</lastBuildDate>
+    
+	<atom:link href="https://interruptrequest.io/tags/vsphere67/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up My Mini Home Lab Part 1</title>
+      <link>https://interruptrequest.io/2018/07/26/setting-up-my-mini-home-lab-part-1/</link>
+      <pubDate>Thu, 26 Jul 2018 20:40:36 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/2018/07/26/setting-up-my-mini-home-lab-part-1/</guid>
+      <description>Recently, it had become abundantly clear that I needed a home lab. I have seen some amazing home lab builds around the internet and am in awe of most of them. Multiple physical hosts, physical switches, external storage, and in some cases complete HCI setups. This is what I wanted. This is what I needed! However, I am extraordinarily cheap, and spending that kind of money on a lab might give me a heart attack and if I survived that my wife might kill me anyways!</description>
+    </item>
+    
+  </channel>
+</rss>
