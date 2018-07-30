@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It Resiliency on Interrupt Request</title>
+    <link>https://interruptrequest.io/tags/it-resiliency/</link>
+    <description>Recent content in It Resiliency on Interrupt Request</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>interruptrequestio@gmail.com (Wes Carroll)</managingEditor>
+    <webMaster>interruptrequestio@gmail.com (Wes Carroll)</webMaster>
+    <lastBuildDate>Sun, 29 Jul 2018 21:14:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://interruptrequest.io/tags/it-resiliency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>South Carolina VMUGs and Modern Data Centers</title>
+      <link>https://interruptrequest.io/2018/07/29/south-carolina-vmugs-and-modern-data-centers/</link>
+      <pubDate>Sun, 29 Jul 2018 21:14:27 -0400</pubDate>
+      <author>interruptrequestio@gmail.com (Wes Carroll)</author>
+      <guid>https://interruptrequest.io/2018/07/29/south-carolina-vmugs-and-modern-data-centers/</guid>
+      <description>&lt;p&gt;This past week, I had the amazing opportunity to speak at two different VMUG events.
+The first group I got to speak with was the &lt;a href=&#34;https://community.vmug.com/communities/localcommunityhome?CommunityKey=48abd35e-f8de-4128-8e25-3fdffdbac9be&#34;&gt;Columbia, SC VMUG&lt;/a&gt; and the second was with the Hilton Head / Bluffton, SC VMUG group.
+Both of these events had some very smart people in the room which led to quite interesting conversations.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
