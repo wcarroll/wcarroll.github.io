@@ -14,15 +14,13 @@
     
     <item>
       <title>Setting Up the Blog</title>
-      <link>https://interruptrequest.io/2018/07/15/setting-up-the-blog/</link>
+      <link>https://interruptrequest.io/2018/07/setting-up-the-blog/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       <author>interruptrequestio@gmail.com (Wes Carroll)</author>
-      <guid>https://interruptrequest.io/2018/07/15/setting-up-the-blog/</guid>
+      <guid>https://interruptrequest.io/2018/07/setting-up-the-blog/</guid>
       <description>&lt;p&gt;Now that the selection process is complete, I need to put it all together and get it all setup.
 This process will include setting up my &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; environment, configuration of GitHub Pages, and configuration of a custom URL.
-Upon completion of these steps, I will be ready to start publishing.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+Upon completion of these steps, I will be ready to start publishing.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,9 +31,7 @@ Upon completion of these steps, I will be ready to start publishing.&lt;/p&gt;
       <guid>https://interruptrequest.io/2018/07/02/selecting-my-blogging-platform/</guid>
       <description>&lt;p&gt;Now that I have selected my name, I had to select a platform to publish on.
 I looked at several options including &lt;a href=&#34;https://wordpress.com/&#34;&gt;WordPress&lt;/a&gt;, &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;https://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;, and a few others.
-WordPress was the front runner for a while, but what I really wanted was a simplistic method to host static pages, version control, create and edit content anywhere, support for a custom domain name, and as free as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+WordPress was the front runner for a while, but what I really wanted was a simplistic method to host static pages, version control, create and edit content anywhere, support for a custom domain name, and as free as possible.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,9 +43,7 @@ WordPress was the front runner for a while, but what I really wanted was a simpl
       <description>&lt;p&gt;For a while now, I have been looking to start a site \ blog to share with the world my technological learnings and insights.
 One of the hardest things I had to figure out was what to call the site.
 I wanted something that would be easy to remember, unique, and most importantly not already taken.
-Considering all these requirements, I spent over a year attempting to figure it out!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+Considering all these requirements, I spent over a year attempting to figure it out!&lt;/p&gt;</description>
     </item>
     
   </channel>
